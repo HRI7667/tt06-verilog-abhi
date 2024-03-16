@@ -13,7 +13,7 @@ when a and b varies sum become 1
 
 ## How to test
 
-Explain how to use your project
+full adder
 
 ## External hardware
 
